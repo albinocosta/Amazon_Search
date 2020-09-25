@@ -24,9 +24,9 @@ Scripts project was implemented in Ruby
 
 To be able to run this project you will need:
 
-1 - An ruby IDE. Eg.: VS Code 2 - Ruby 2.6.6p146 with dev kit 3 - If necessary, update the libraries needed to run the tests. Use bundle uninstall. Dependencies are described in gemfile;
+1 - An ruby IDE. Eg.: VS Code 2 - Ruby 2.6.6p146 with dev kit 3 - If necessary, update the libraries needed to run the tests. Use bundle uninstall. Dependencies are described in gemfile (capybara/ cucumber/ rspec/ selenium webdriver/ site_prism);
 
-2 - Environment is set up for homologation and for development it should be set up at rspec.yml file. Don't forget to provide the right url for this case in dev.yml file;
+2 - Environment is set up for homologation and for development it should be set up. Don't forget to provide the right url for development case;
 
 3 - Be sure your IDE have pluggins for Ruby and Cucumber. It a good option take vscode-icons for better file previews.
 
